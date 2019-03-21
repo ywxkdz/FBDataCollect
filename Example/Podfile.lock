@@ -1,0 +1,27 @@
+PODS:
+  - FBPrivateCollect (0.1.0):
+    - Reachability
+    - SAMKeychain
+  - Reachability (3.2)
+  - SAMKeychain (1.5.3)
+
+DEPENDENCIES:
+  - FBPrivateCollect (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Reachability
+    - SAMKeychain
+
+EXTERNAL SOURCES:
+  FBPrivateCollect:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBPrivateCollect: accd2d0e51bb05eca7e9ec7d584d06e10dcd3dd5
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SAMKeychain: 483e1c9f32984d50ca961e26818a534283b4cd5c
+
+PODFILE CHECKSUM: d0a638b7c5432d4058f8995b17c04b99b6505f1a
+
+COCOAPODS: 1.5.2

@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'FBPrivateCollect_Example' do
+  pod 'FBPrivateCollect', :path => '../'
+
+  target 'FBPrivateCollect_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

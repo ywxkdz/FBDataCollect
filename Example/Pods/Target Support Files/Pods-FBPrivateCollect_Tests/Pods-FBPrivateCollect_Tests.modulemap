@@ -1,0 +1,6 @@
+framework module Pods_FBPrivateCollect_Tests {
+  umbrella header "Pods-FBPrivateCollect_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
