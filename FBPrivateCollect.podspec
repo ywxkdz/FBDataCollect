@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FBPrivateCollect'
-  s.version          = '0.1.4'
-  s.summary          = 'A short description of FBPrivateCollect.'
+  s.version          = '0.1.5'
+  s.summary          = 'FBPrivateCollect.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,9 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'help to Collect user device info or using data'
 
   s.homepage         = 'https://github.com/534219838@qq.com/FBPrivateCollect'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
