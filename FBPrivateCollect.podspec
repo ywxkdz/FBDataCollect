@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FBPrivateCollect'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of FBPrivateCollect.'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '534219838@qq.com' => 'wangwei_ios@smartisan.com' }
-  s.source           = { :git => 'https://github.com/534219838@qq.com/FBPrivateCollect.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:ywxkdz/FBPrivateSpecs.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
